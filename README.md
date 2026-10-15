@@ -4,7 +4,7 @@
   <img alt="Bernard Lappay. Computer Engineering, UC San Diego." src="./assets/banner-light.svg" width="100%">
 </picture>
 
-I build systems at every level, from logic gates to the servers they run on. I study Computer Engineering at UC San Diego (B.S. June 2027), run a containerized game network for 30+ players on a homelab I built, fine-tune and serve LLMs on my own hardware, and write plugins that run on live servers.
+I love to build systems at every level, from logic gates to the servers they run on. I study Computer Engineering at UC San Diego (B.S. June 2027), run a containerized game network for 30+ players on a homelab I built, fine-tune and serve LLMs on my own hardware, and write plugins that run on live servers.
 
 **Looking for IT infrastructure, ML, and DevOps roles starting June 2027.** My portfolio and résumé are at [blappay1721.github.io](https://blappay1721.github.io/). Reach me at [blappay1721@gmail.com](mailto:blappay1721@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/blappay1721).
 
