@@ -11,7 +11,7 @@ I love to build systems at every level, from logic gates to the servers they run
 ## Now
 
 - **Technical contributor at Silent Studio.** Gameplay and backend work on [Mineshoku Tensei](https://mineshokutensei.com/), a live multiplayer game. I cut a core spatial-query system's geometry data by about 86%, closed an exploit across dozens of config files with a scripted, diff-verified rollout, and audited 2,295 default permissions.
-- **Running my homelab.** One 16 GB mini PC hosts a Minecraft network, a Discord bot and a local LLM. Every game server runs in a container, the largest worlds start on demand, and no admin port is open to the internet.
+- **Running my homelab.** Currently hosts a Minecraft network, a Discord bot, and a local LLM; all containerized. I'm hoping to upgrade my hardware eventually.
 
 ## Selected work
 
